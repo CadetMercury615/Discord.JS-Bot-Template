@@ -1,0 +1,8 @@
+{
+  "token": "[Insert your super secret token here]",
+  "prefix": "?",
+  "OwnerID": "[Insert your user id here]",
+  "ProfanityAllowed": false,
+  "SpamAllowed": false,
+  "NoPerms": "You do not have the permissions to run that command"
+}
