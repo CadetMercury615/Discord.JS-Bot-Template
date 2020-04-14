@@ -1,5 +1,6 @@
 # How to set up your Discord.JS (d.JS) Bot
-This tutorial is assuming that you have already set up the bot (Already created it in the Discord Developer Portal and invited it to the server) and are ready to code it
+This tutorial is assuming that you have already set up the bot (Already created it in the Discord Developer Portal and invited it to the server) and are ready to code it.
+If you haven't even created the bot yet, please visit: https://www.youtube.com/watch?v=UcLspwognk0
 
 ## How to install node.js, npm, and Visual Studio Code
 Visit: https://www.npmjs.com/get-npm and download Node and NPM
